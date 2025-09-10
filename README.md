@@ -1,11 +1,4 @@
 
----
-
-## 3. **Url_mail**  
-**Descrição curta (GitHub):**  
-Página HTML criada como modelo de e-mail de apresentação profissional.  
-
-**README.md:**  
 ```markdown
 # Url_mail
 
